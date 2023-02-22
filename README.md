@@ -4,5 +4,6 @@
 * [spotiflyer](https://spotiflyer.app/)
 * [ReVanced](https://revanced.io/)
 * [LSposed](https://github.com/LSPosed/LSPosed)
-* [LSPatch Framework](https://github.com/LSPosed/LSPatch)
+* [LSPatch](https://github.com/LSPosed/LSPatch)
 * [Xmanager](https://xmanagerapp.com/)
+* [Bromite Browser](https://www.bromite.org/)
